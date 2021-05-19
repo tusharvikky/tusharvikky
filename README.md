@@ -1,4 +1,4 @@
-**नमस्ते (Namaste)🙏🏻, I'm Tushar Deo!**
+<h3 align="center">नमस्ते (Namaste)🙏🏻, I'm Tushar Deo!</h3>
 
 Here are some ideas to get you started:
 
