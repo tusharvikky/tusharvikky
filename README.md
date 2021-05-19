@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**tusharvikky/tusharvikky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**नमस्ते (Namaste)🙏🏻, I'm Tushar Deo!**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as **Tech Lead @ PsychOnline**
+- 🌱 I’m currently learning `Py`, `React-Native`, `Angular` and `Machine Learning`
+- 👯 I’m looking to collaborate on **Open Source** and/or **Machine Learning** projects
+- 💬 I'm mostly active within the **PHP**, **Py**, **Angular** communities
+- ⚡ Fun fact: I'm a huge fan of **Automation**
+
+📣 Get in Touch? :
+- Twitter: [twitter.com/tusharvikky][Twitter]
+- LinkedIn: [linkedin.com/in/tusharvikky][LinkedIn]
+- Site: [tusharvikky.github.io][site]
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
