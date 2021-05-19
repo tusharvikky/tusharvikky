@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a huge fan of **Automation**
 
 📣 Get in Touch? :
-- Twitter: [twitter.com/tusharvikky][Twitter]
-- LinkedIn: [linkedin.com/in/tusharvikky][LinkedIn]
-- Site: [tusharvikky.github.io][site]
+- Twitter: [twitter.com/tusharvikky](https://twitter.com/tusharvikky)
+- LinkedIn: [linkedin.com/in/tusharvikky](https://www.linkedin.com/in/tusharvikky/)
+- Site: [tusharvikky.github.io](https://tusharvikky.github.io/)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
