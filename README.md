@@ -1,7 +1,5 @@
 <h3 align="center">नमस्ते (Namaste)🙏🏻, I'm Tushar Deo!</h3>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as **Tech Lead @ PsychOnline**
 - 🌱 I’m currently learning `Py`, `React-Native`, `Angular` and `Machine Learning`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Machine Learning** projects
