@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 📣 Get in Touch? :
 - Twitter: [twitter.com/tusharvikky](https://twitter.com/tusharvikky)
 - LinkedIn: [linkedin.com/in/tusharvikky](https://www.linkedin.com/in/tusharvikky/)
-- Site: [tusharvikky.github.io](https://tusharvikky.github.io/)
+- Site: [tushardeo.com](https://tushardeo.com/)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
