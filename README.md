@@ -12,6 +12,8 @@
 - Site: [tushardeo.com](https://tushardeo.com/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C599%20hrs%2026%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -75,6 +77,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tusharvikky/tusharvikky/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/12/2021
+ Last Updated on 16/12/2021
 <!--END_SECTION:waka-->
 
