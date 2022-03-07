@@ -43,16 +43,13 @@ Sunday       13 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      31 mins             ███████████████████░░░░░░   76.69% 
-Blade Template           9 mins              █████░░░░░░░░░░░░░░░░░░░░   22.83% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             41 mins             █████████████████████████   99.52% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,6 +70,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tusharvikky/tusharvikky/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/03/2022 01:25:11 UTC
+ Last Updated on 07/03/2022 01:26:00 UTC
 <!--END_SECTION:waka-->
 
