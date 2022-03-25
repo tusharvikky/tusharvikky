@@ -43,7 +43,8 @@ Sunday       13 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.0%
+Terraform                0 secs              █████████████████████░░░░   85.43% 
+JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.57%
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.0%
@@ -70,6 +71,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tusharvikky/tusharvikky/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/03/2022 01:43:55 UTC
+ Last Updated on 25/03/2022 01:41:47 UTC
 <!--END_SECTION:waka-->
 
