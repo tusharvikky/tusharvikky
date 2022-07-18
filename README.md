@@ -45,15 +45,13 @@ Sunday       6 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████░░░░░░░░░░░░   53.71% 
-JSON                     3 mins              ███████████░░░░░░░░░░░░░░   45.9% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,6 +72,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tusharvikky/tusharvikky/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 02:27:18 UTC
+ Last Updated on 18/07/2022 02:22:00 UTC
 <!--END_SECTION:waka-->
 
