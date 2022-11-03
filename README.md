@@ -12,7 +12,7 @@
 - Site: [tushardeo.com](https://tushardeo.com/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-459%20Thousand%20lines%20of%20code-blue)
 
@@ -45,16 +45,13 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 mins              ████████████████████░░░░░   82.98% 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+Other                    5 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+VS Code                  5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.0%
+Mac                      5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -75,6 +72,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tusharvikky/tusharvikky/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2022 02:32:54 UTC
+ Last Updated on 03/11/2022 02:12:25 UTC
 <!--END_SECTION:waka-->
 
